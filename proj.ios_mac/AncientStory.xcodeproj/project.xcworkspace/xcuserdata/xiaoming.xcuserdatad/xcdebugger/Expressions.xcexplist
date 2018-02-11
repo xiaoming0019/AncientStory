@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ModelManager::InitModels():ModelManager.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "fileUtils-&gt;fullPathForFilename(dataList[i])">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
